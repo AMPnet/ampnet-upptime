@@ -8,16 +8,14 @@ sites:
     url: https://ampnet.io
   - name: App
     url: https://app.ampnet.io
+  - name: Genervest
+    url: https://genervest.ampnet.io
   - name: Demo
     url: https://demo.ampnet.io
   - name: Staging
     url: https://staging.ampnet.io
   - name: Blog
     url: https://blog.ampnet.io
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: TCP ping
-    url: 1.1.1.1
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
