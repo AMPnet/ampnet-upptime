@@ -19,9 +19,9 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: ampnet.io/status
+  # cname: ampnet.io/status
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /status
+  baseUrl: /status
   logoUrl: https://ampnet.io/assets/images/logo-amp.png
   name: AMPnet status page
 #  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
