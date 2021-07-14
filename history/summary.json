@@ -24,9 +24,9 @@
     "url": "https://app.ampnet.io",
     "icon": "https://favicons.githubusercontent.com/app.ampnet.io",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,16 +35,18 @@
     "timeWeek": 240,
     "timeMonth": 217,
     "timeYear": 245,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-14": 0
+    }
   },
   {
     "name": "Genervest",
     "url": "https://genervest.ampnet.io",
     "icon": "https://favicons.githubusercontent.com/genervest.ampnet.io",
     "slug": "genervest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,16 +55,18 @@
     "timeWeek": 246,
     "timeMonth": 212,
     "timeYear": 240,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-14": 0
+    }
   },
   {
     "name": "Demo",
     "url": "https://demo.ampnet.io",
     "icon": "https://favicons.githubusercontent.com/demo.ampnet.io",
     "slug": "demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,16 +75,18 @@
     "timeWeek": 415,
     "timeMonth": 416,
     "timeYear": 430,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-14": 0
+    }
   },
   {
     "name": "Staging",
     "url": "https://staging.ampnet.io",
     "icon": "https://favicons.githubusercontent.com/staging.ampnet.io",
     "slug": "staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,16 +95,18 @@
     "timeWeek": 298,
     "timeMonth": 228,
     "timeYear": 232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-14": 0
+    }
   },
   {
     "name": "Blog",
     "url": "https://blog.ampnet.io",
     "icon": "https://favicons.githubusercontent.com/blog.ampnet.io",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,6 +115,8 @@
     "timeWeek": 317,
     "timeMonth": 306,
     "timeYear": 381,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-14": 0
+    }
   }
 ]
