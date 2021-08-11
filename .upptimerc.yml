@@ -12,8 +12,8 @@ sites:
     url: https://genervest.ampnet.io
   - name: Demo
     url: https://demo.ampnet.io
-  - name: Staging
-    url: https://staging.ampnet.io
+  - name: Staging API
+    url: https://eth-staging.ampnet.io/api/identity/actuator/health
   - name: Blog
     url: https://blog.ampnet.io
 
