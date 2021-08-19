@@ -12,8 +12,10 @@ sites:
     url: https://genervest.ampnet.io
   - name: Demo
     url: https://demo.ampnet.io
+  - name: Invest API
+    url: https://invest-api.ampnet.io/monitoring/prometheus/targets
   - name: Staging API
-    url: https://eth-staging.ampnet.io/api/identity/actuator/health
+    url: https://eth-staging.ampnet.io/monitoring/prometheus/targets
   - name: Blog
     url: https://blog.ampnet.io
 
