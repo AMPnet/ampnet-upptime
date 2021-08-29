@@ -84,18 +84,20 @@
     "url": "https://invest-api.ampnet.io/monitoring/prometheus/targets",
     "icon": "https://favicons.githubusercontent.com/invest-api.ampnet.io",
     "slug": "invest-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 439,
-    "timeWeek": 260,
-    "timeMonth": 240,
-    "timeYear": 240,
-    "dailyMinutesDown": {}
+    "time": 234,
+    "timeDay": 303,
+    "timeWeek": 249,
+    "timeMonth": 234,
+    "timeYear": 234,
+    "dailyMinutesDown": {
+      "2021-08-29": 0
+    }
   },
   {
     "name": "Staging API",
