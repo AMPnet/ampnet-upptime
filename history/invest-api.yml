@@ -1,7 +1,7 @@
 url: https://invest-api.ampnet.io/monitoring/prometheus/targets
-status: down
-code: 521
-responseTime: 22530
-lastUpdated: 2021-08-29T23:05:16.569Z
+status: up
+code: 200
+responseTime: 15782
+lastUpdated: 2021-08-30T07:46:48.648Z
 startTime: Thu Aug 19 2021 08:58:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
