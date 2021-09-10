@@ -10,6 +10,8 @@ sites:
     url: https://genervest.ampnet.io
   - name: App
     url: https://invest.ampnet.io
+  - name: Staging
+    url: https://staging.ampnet.io
   - name: Invest API
     url: https://invest-api.ampnet.io/monitoring/prometheus/targets
   - name: Staging API
