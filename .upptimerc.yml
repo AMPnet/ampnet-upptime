@@ -6,12 +6,10 @@ repo: status # Your GitHub repository name
 sites:
   - name: AMPnet
     url: https://ampnet.io
-  - name: App
-    url: https://app.ampnet.io
   - name: Genervest
     url: https://genervest.ampnet.io
-  - name: Demo
-    url: https://demo.ampnet.io
+  - name: App
+    url: https://invest.ampnet.io
   - name: Invest API
     url: https://invest-api.ampnet.io/monitoring/prometheus/targets
   - name: Staging API
