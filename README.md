@@ -1,6 +1,6 @@
 # [![AMPnet](./assets/ampnet.png)](https://ampnet.io)
 
-[AMPnet status page](https://ampnet.io/status) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.
+[AMPnet status page](https://status.ampnet.io) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues.
 Created from template [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/AMPnet/status/workflows/Uptime%20CI/badge.svg)](https://github.com/AMPnet/status/actions?query=workflow%3A%22Uptime+CI%22)
