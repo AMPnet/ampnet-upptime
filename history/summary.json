@@ -71,9 +71,9 @@
     "url": "https://staging.ampnet.io",
     "icon": "https://favicons.githubusercontent.com/staging.ampnet.io",
     "slug": "staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
@@ -83,6 +83,7 @@
     "timeMonth": 249,
     "timeYear": 272,
     "dailyMinutesDown": {
+      "2021-12-03": 0,
       "2021-10-21": 40,
       "2021-07-14": 184
     }
@@ -93,11 +94,11 @@
     "icon": "https://favicons.githubusercontent.com/invest-api.ampnet.io",
     "slug": "invest-api",
     "status": "up",
-    "uptime": "99.51%",
+    "uptime": "99.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.51%",
+    "uptimeYear": "99.52%",
     "time": 550,
     "timeDay": 159,
     "timeWeek": 166,
