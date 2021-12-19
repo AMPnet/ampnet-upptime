@@ -28,9 +28,9 @@
     "url": "https://genervest.ampnet.io",
     "icon": "https://favicons.githubusercontent.com/genervest.ampnet.io",
     "slug": "genervest",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "26.92%",
+    "uptimeDay": "39.84%",
     "uptimeWeek": "84.98%",
     "uptimeMonth": "96.54%",
     "uptimeYear": "99.57%",
@@ -40,6 +40,7 @@
     "timeMonth": 232,
     "timeYear": 232,
     "dailyMinutesDown": {
+      "2021-12-19": 0,
       "2021-12-18": 1055,
       "2021-12-17": 459,
       "2021-07-14": 184
