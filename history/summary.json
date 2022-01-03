@@ -95,19 +95,19 @@
     "url": "https://eth-staging.ampnet.io/monitoring/prometheus/targets",
     "icon": "https://favicons.githubusercontent.com/eth-staging.ampnet.io",
     "slug": "staging-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 334,
-    "timeDay": 9388,
-    "timeWeek": 2485,
-    "timeMonth": 747,
-    "timeYear": 334,
+    "time": 332,
+    "timeDay": 6313,
+    "timeWeek": 2227,
+    "timeMonth": 730,
+    "timeYear": 332,
     "dailyMinutesDown": {
-      "2022-01-03": 0
+      "2022-01-03": 7
     }
   },
   {
