@@ -4,7 +4,7 @@
     "url": "https://ampnet.io",
     "icon": "https://favicons.githubusercontent.com/ampnet.io",
     "slug": "am-pnet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 702,
     "timeYear": 364,
     "dailyMinutesDown": {
+      "2022-02-14": 0,
       "2021-12-16": 635,
       "2021-12-15": 451,
       "2021-09-16": 833,
