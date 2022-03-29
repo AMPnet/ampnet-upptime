@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
     "time": 397,
-    "timeDay": 532,
-    "timeWeek": 594,
+    "timeDay": 0,
+    "timeWeek": 599,
     "timeMonth": 661,
     "timeYear": 408,
     "dailyMinutesDown": {
@@ -36,8 +36,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.33%",
     "time": 198,
-    "timeDay": 65,
-    "timeWeek": 87,
+    "timeDay": 0,
+    "timeWeek": 86,
     "timeMonth": 113,
     "timeYear": 195,
     "dailyMinutesDown": {
@@ -61,8 +61,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 226,
-    "timeDay": 91,
-    "timeWeek": 92,
+    "timeDay": 0,
+    "timeWeek": 93,
     "timeMonth": 145,
     "timeYear": 227,
     "dailyMinutesDown": {
@@ -82,8 +82,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 383,
-    "timeDay": 161,
-    "timeWeek": 200,
+    "timeDay": 0,
+    "timeWeek": 201,
     "timeMonth": 217,
     "timeYear": 383,
     "dailyMinutesDown": {
@@ -96,18 +96,20 @@
     "url": "https://eth-staging.ampnet.io/monitoring/prometheus/targets",
     "icon": "https://favicons.githubusercontent.com/eth-staging.ampnet.io",
     "slug": "staging-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 160,
+    "timeDay": 0,
     "timeWeek": 169,
     "timeMonth": 215,
     "timeYear": 294,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-29": 0
+    }
   },
   {
     "name": "Blog",
@@ -121,8 +123,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 344,
-    "timeDay": 192,
-    "timeWeek": 243,
+    "timeDay": 0,
+    "timeWeek": 228,
     "timeMonth": 288,
     "timeYear": 340,
     "dailyMinutesDown": {
