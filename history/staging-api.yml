@@ -1,7 +1,7 @@
 url: https://eth-staging.ampnet.io/monitoring/prometheus/targets
 status: up
 code: 200
-responseTime: 159
-lastUpdated: 2022-04-03T23:04:52.398Z
+responseTime: 158
+lastUpdated: 2022-04-04T23:09:45.491Z
 startTime: Wed Aug 11 2021 12:54:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
